@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "330521653016",
+    "firebase_url": "https://masterk-daef9.firebaseio.com",
+    "project_id": "masterk-daef9",
+    "storage_bucket": "masterk-daef9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330521653016:android:e0e455c6d7da9587",
+        "android_client_info": {
+          "package_name": "com.example.danie.masterk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330521653016-coevn5modafieu00g7tore1rr4gtpifl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.danie.masterk",
+            "certificate_hash": "7c22984599212875cafd9a93df259c2535b289cb"
+          }
+        },
+        {
+          "client_id": "330521653016-o5vdf9rd6vcbo7fehnjb61eg61ro9mhh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOUTSWaAKt07TkmdZwYwoccXPSYIuRQ6c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330521653016-o5vdf9rd6vcbo7fehnjb61eg61ro9mhh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
